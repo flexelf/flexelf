@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @flexelf
+- 👀 I’m interested in making software safer.
+- 🌱 I’m currently learning all sorts of things
+- 📫 How to reach me: dont
